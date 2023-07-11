@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3056313253
+    locked: 0
+  - name: FootSteps
+    uniqueID: 1027065381
+    locked: 0
+  - name: Foreground
+    uniqueID: 556018249
+    locked: 0
+  - name: Weather
+    uniqueID: 2920300759
+    locked: 0
