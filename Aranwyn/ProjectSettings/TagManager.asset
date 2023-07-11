@@ -53,3 +53,9 @@ TagManager:
   - name: Weather
     uniqueID: 2920300759
     locked: 0
+  - name: Hand
+    uniqueID: 248470981
+    locked: 0
+  - name: Weapon
+    uniqueID: 915054895
+    locked: 0
